@@ -1,4 +1,4 @@
-# My-Tutorials-Documentation
+# My-Tutorial-Notes-Documentation
 
 ## JAVASCRIPT
 
